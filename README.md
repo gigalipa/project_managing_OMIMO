@@ -17,7 +17,7 @@ Crear este **Macroproyecto de Organización de Portafolio** bajo metodologías �
 
 ```text
  ┌─────────────────────────────────────────────────────────────────┐
- │                   MACROPROYECTO DE PORTAFOLIO                    │
+ │                   MACROPROYECTO DE PORTAFOLIO                   │
  └──────────────────────────────┬──────────────────────────────────┘
                                 │
        ┌────────────────────────┼────────────────────────┐
